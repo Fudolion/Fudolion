@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Fudolion. I'm a developer with a passion for technology and innovation.
+- 👀 I’m interested in exploring new programming languages, frameworks, and tools that can help me build better software.
+- 🌱 I’m currently learning about machine learning and data science, and I'm always on the lookout for new opportunities to expand my skill set.
+- 💞️ I’m looking to collaborate on projects that have a positive impact on people's lives, whether it's through education, healthcare, or any other field that can benefit from technology.
+- 📫 You can reach me at mariakhalifa46@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a big fan of cats
